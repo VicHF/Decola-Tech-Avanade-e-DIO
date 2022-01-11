@@ -1,0 +1,16 @@
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\bin\Debug\net5.0\DesafioDeProjeto.exe
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\bin\Debug\net5.0\DesafioDeProjeto.deps.json
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\bin\Debug\net5.0\DesafioDeProjeto.runtimeconfig.json
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\bin\Debug\net5.0\DesafioDeProjeto.runtimeconfig.dev.json
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\bin\Debug\net5.0\DesafioDeProjeto.dll
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\bin\Debug\net5.0\ref\DesafioDeProjeto.dll
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\bin\Debug\net5.0\DesafioDeProjeto.pdb
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\obj\Debug\net5.0\DesafioDeProjeto.csproj.AssemblyReference.cache
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\obj\Debug\net5.0\DesafioDeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\obj\Debug\net5.0\DesafioDeProjeto.AssemblyInfoInputs.cache
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\obj\Debug\net5.0\DesafioDeProjeto.AssemblyInfo.cs
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\obj\Debug\net5.0\DesafioDeProjeto.csproj.CoreCompileInputs.cache
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\obj\Debug\net5.0\DesafioDeProjeto.dll
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\obj\Debug\net5.0\ref\DesafioDeProjeto.dll
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\obj\Debug\net5.0\DesafioDeProjeto.pdb
+C:\Users\vick\Documents\Decola-Tech-Avanade-e-DIO\DesafioDeProjeto\obj\Debug\net5.0\DesafioDeProjeto.genruntimeconfig.cache
