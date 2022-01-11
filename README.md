@@ -7,6 +7,6 @@ Foi escolhida a temática de músicas e mesmo após a data de entrega o projeto 
 
 **11/01/22**
 
-Nesse projeto pude colocar em prática conhecimentos sobre classe abstrata, enum, construtor, design patterns repository, POO e desenvolvimento em camadas, deixando o código mais dinâmico. or testes manuais podemos identificar melhorias quanto a iserção de valores não esperados.
+Nesse projeto pude colocar em prática conhecimentos sobre classe abstrata, enum, construtor, design patterns repository, POO e desenvolvimento em camadas, deixando o código mais dinâmico. Por testes manuais podemos identificar melhorias quanto a inserção de valores não esperados.
 
 [Meu LinkedIn](https://www.linkedin.com/in/victoria-h-ferreira/)
